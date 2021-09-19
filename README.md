@@ -5,7 +5,7 @@ A.I. Autonomous Car is a repository that deals with the creation of a car drivin
 This repository uses the 
 [NEAT algorithmn](https://neat-python.readthedocs.io/en/latest/ "NEAT Documentation") to create an Aritifical Intelligence based program that can drive a car throughout the driving game. NEAT (NeuroEvolution of Augmenting Topologies) is an evolutionary algorithm that creates artificial neural networks.
 
-![A.I. Training](assets/img.jpg "A.I. Training")
+![A.I. Training](assets/Images/img.jpg "A.I. Training")
 
 ## Usage
 
@@ -33,4 +33,4 @@ python3 run.py run
 
 An implementation of this code can be seen in the following video.
 
-[![Video of Code Implementation]](https://youtu.be/qPHL5K4-2HM)
+[![Video of Code Implementation](assets/Images/video.jpg)](https://youtu.be/qPHL5K4-2HM)
