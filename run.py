@@ -1,3 +1,13 @@
+#!/usr/bin/env python3
+# File:             	Game.py
+# Date:             	20/09/2021
+# Author:          	Marc Rocca
+# Modifications:    	Null
+
+"""
+Handles the initiation of the game for either interaction with
+a human user or the training and running of the NEAT algorithmn
+"""
 
 import sys
 import neat
