@@ -33,4 +33,4 @@ python3 run.py run
 
 An implementation of this code can be seen in the following video.
 
-[![Video of Code Implementation](assets/img.jpg)](https://youtu.be/qPHL5K4-2HM)
+[![Video of Code Implementation]](https://youtu.be/qPHL5K4-2HM)
