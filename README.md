@@ -9,7 +9,7 @@ This repository uses the
 
 ## Usage
 
-There are three modules that were created: a game playing module, a machine learning training module and a running of the resulting machine learning module. 
+There are three modules that were created: a game playing module, a machine learning training module and a robot module that runs the best resulting machine learning model. 
 
 The game-play module allows a user to drive the car by using the up-down-left-right arrows. It can be run using the command:
 
@@ -23,10 +23,10 @@ The training module displays how the NEAT algorithmn develops an autonomous driv
 python3 run.py train
 ```
 
-The run module runs the best NEAT model that was developed in the training module. It can be run using the command:
+The robot module runs the best NEAT model that was developed in the training module. It can be run using the command:
 
 ```bash
-python3 run.py run
+python3 run.py robot
 ```
 
 ## Example
