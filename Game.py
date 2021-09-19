@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 
-""" carGame.py"""
+"""
+Creates a car driving game that can be interacted
+with by a user or used to train a neural network.
+"""
 
 import os
 os.environ['PYGAME_HIDE_SUPPORT_PROMPT'] = '1'
